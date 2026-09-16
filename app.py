@@ -1,8 +1,3 @@
-# ---------------------------------------------------------
-# app.py -- ShipSense: Late Delivery Risk Predictor
-# Streamlit front-end. Run with:  streamlit run app.py
-# ---------------------------------------------------------
-
 import os
 import pandas as pd
 import plotly.graph_objects as go
