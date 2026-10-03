@@ -1,4 +1,4 @@
-# model.py will contain the definition of neural network
+# model.py will contain the definition of neural networ
 
 
 import torch
